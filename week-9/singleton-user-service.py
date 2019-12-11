@@ -1,3 +1,11 @@
+#============================================
+# Title: Assignment 9.2
+# Author: Justin Singleton
+# Date: 11 December 2019
+# Description: This program demonstrates the
+# use of Python for querying and creating.
+#============================================
+
 from pymongo import MongoClient
 import pprint
 import datetime
